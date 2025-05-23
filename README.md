@@ -1,5 +1,5 @@
-## Impacto do Desmatamento
-Este projeto é uma página web informativa sobre os impactos do desmatamento no meio ambiente e na qualidade de vida das pessoas. Através de uma abordagem visual e clara, o conteúdo é dividido em seções que explicam os problemas causados pela destruição das florestas, suas consequências e as ações necessárias para mitigar seus efeitos.
+## Impacto da agricultura no mundo:
+A agricultura exerce um impacto profundo no mundo, tanto positivamente como negativamente. Positivamente, é a base da nossa alimentação, impulsiona o desenvolvimento econômico, especialmente em países em desenvolvimento, e fornece matérias-primas para diversas indústrias. Negativamente, causa a degradação do meio ambiente, com desmatamento, poluição do solo e água, erosão, perda de biodiversidade e emissões de gases de efeito estufa.
 
 ### Estrutura do Projeto
 Tecnologias Utilizadas:
@@ -12,27 +12,30 @@ style.css: Arquivo de estilos para formatação da página.
 
 ### Descrição das Seções:
 Cabeçalho (Header):
-* Título da página com o nome "Impacto do Desmatamento".
-* Parágrafo explicativo sobre como o desmatamento afeta o ambiente e as pessoas.
-* Navegação com links internos para as seções "Os Problemas", "Consequências" e "Conclusão".
+* Título da página com o nome "AGRONEGÓCIO".
+* Parágrafo explicativo que o agronegócio está em todo lugar.
+* Navegação com links internos para as seções "Vantagens", "Consequências" e "Conclusão".
 
 #### Problemas:
 
-Seção detalhando os principais problemas gerados pelo desmatamento:
-Aumento das enchentes.
-Calor excessivo e ilhas de calor.
-Redução da qualidade de vida.
+Seção detalhando as principais vantagens do agronegócio.
+Aumento da demanda e desenvolvimento local.
+Geração de empregos.
+Desenvolvimento sustentável.
 
-#### Consequências:
+#### Impactos ambientais:
 
-Lista das consequências diretas do desmatamento, como:
-* Aumento das enchentes e erosão do solo.
-* Mudanças climáticas e perda da biodiversidade.
-* Impacto na saúde pública e economia local.
+* Desmatamento: A expansão do agronegócio, especialmente a produção de soja e a criação de gado, é um dos principais motores do desmatamento em diversas regiões do país, como a Amazônia e o Cerrado.
+
+* Degradação do solo: Práticas de manejo inadequado, como a falta de rotação de culturas e o uso excessivo de fertilizantes e agrotóxicos, podem levar à perda de fertilidade do solo e à erosão.Poluição dos recursos hídricos: O uso de agrotóxicos e a falta de tratamento adequado de efluentes de produção podem contaminar rios, lagos e lençóis freáticos, afetando a saúde humana e a vida aquática.
+  
+* Redução da biodiversidade: A conversão de áreas naturais em pastagens e monoculturas leva à perda de habitat para diversas espécies de plantas e animais, contribuindo para o aumento da extinção de espécies.
+  
+* Mudanças climáticas: A agropecuária é uma das principais fontes de emissão de gases de efeito estufa, como o metano e o dióxido de carbono, que contribuem para o aquecimento global e as mudanças climáticas.
 
 #### Conclusão:
 
-Reflexão final sobre a necessidade de ações para combater o desmatamento, incluindo preservação ambiental, reflorestamento e práticas sustentáveis.
+O agronegócio é fundamental para a economia brasileira, contribuindo significativamente para o PIB, as exportações e a geração de empregos.
 
 #### Rodapé (Footer):
 
